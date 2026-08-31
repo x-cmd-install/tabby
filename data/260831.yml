@@ -1,0 +1,66 @@
+about:
+  description: A terminal for a more modern age
+  license: MIT
+  homepage: https://tabby.sh
+  head: 14e2d60
+  archived: false
+  latestVersion: v1.0.235
+  collectedAt: 2026-08-31T03:57:00Z
+timeline:
+  created: 2016-12-23
+  lastCommit: 2026-07-13
+  lastRelease: 2026-07-22
+popularity:
+  star: 74237
+  watcher: 450
+  fork: 4229
+  release: 209
+  contributor: 194
+  pullRequest: 2695
+  issue: 6336
+language:
+  TypeScript: 990383
+  Pug: 148057
+  SCSS: 46431
+  JavaScript: 33895
+  C++: 22828
+  Batchfile: 1574
+  C: 1272
+  NSIS: 688
+  CSS: 487
+  Lua: 247
+  Shell: 156
+totalLine: 1246018
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 30
+    closedIssue: 4
+    openIssue: 33
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 23
+    openPR: 104
+    closedIssue: 24
+    openIssue: 108
+    commit: 54
+  last180d:
+    since: 2026-03-04
+    release: 5
+    mergedPR: 59
+    openPR: 115
+    closedIssue: 99
+    openIssue: 218
+    commit: 110
+  last360d:
+    since: 2025-09-05
+    release: 8
+    mergedPR: 87
+    openPR: 117
+    closedIssue: 163
+    openIssue: 412
+    commit: 154
