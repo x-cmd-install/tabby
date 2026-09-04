@@ -7,13 +7,13 @@ about:
   head: 14e2d60
   archived: false
   latestVersion: v1.0.235
-  collectedAt: 2026-09-04T19:20:39Z
+  collectedAt: 2026-09-04T21:12:47Z
 timeline:
   created: 2016-12-23
   lastCommit: 2026-07-13
   lastRelease: 2026-07-22
 popularity:
-  star: 74323
+  star: 74324
   watcher: 453
   fork: 4236
   release: 209
@@ -90,5 +90,98 @@ total:
   openIssue: 2713
   commit: 6513
 ---
+path: /home/runner/.x-repo/github.com/Eugeny/tabby
+collectedAt: 2026-09-04T21:12:51Z
+loc:
+  TypeScript:
+    code: 23994
+    comments: 1321
+    blanks: 3459
+    files: 284
+  Pug:
+    code: 3424
+    comments: 1
+    blanks: 410
+    files: 62
+  Sass:
+    code: 1942
+    comments: 17
+    blanks: 406
+    files: 44
+  JavaScript:
+    code: 1816
+    comments: 6
+    blanks: 111
+    files: 35
+  Json:
+    code: 1140
+    comments: 0
+    blanks: 0
+    files: 50
+  Yaml:
+    code: 515
+    comments: 0
+    blanks: 4
+    files: 8
+  Cpp:
+    code: 273
+    comments: 29
+    blanks: 54
+    files: 2
+  VisualStudioProject:
+    code: 165
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 68
+    comments: 0
+    blanks: 0
+    files: 44
+  Batch:
+    code: 54
+    comments: 0
+    blanks: 10
+    files: 1
+  VisualStudioSolution:
+    code: 30
+    comments: 0
+    blanks: 1
+    files: 1
+  Css:
+    code: 19
+    comments: 0
+    blanks: 4
+    files: 2
+  CHeader:
+    code: 6
+    comments: 8
+    blanks: 9
+    files: 2
+  Pan:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 1
+  Lua:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3733
+    blanks: 609
+    files: 18
+  Text:
+    code: 0
+    comments: 2
+    blanks: 1
+    files: 1
+total:
+  code: 33478
+  comments: 5124
+  blanks: 5082
+  files: 557
 ---
 
