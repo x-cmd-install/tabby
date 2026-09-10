@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.235"
   latestRelease: "v1.0.235"
   latestPrerelease: "v1.0.194"
-  collectedAt: 2026-09-10T18:24:51Z
+  collectedAt: 2026-09-10T23:43:04Z
 timeline:
   created: 2016-12-23
   lastCommit: 2026-07-13
@@ -93,7 +93,7 @@ total:
   commit: 6513
 ---
 path: /home/runner/.x-repo/github.com/Eugeny/tabby
-collectedAt: 2026-09-10T18:25:03Z
+collectedAt: 2026-09-10T23:43:14Z
 loc:
   TypeScript:
     code: 23994
