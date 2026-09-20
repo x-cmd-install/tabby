@@ -4,7 +4,7 @@
 
 A terminal for a more modern age
 
-![tabby](https://repo.x-cmd.io/tabby.svg)
+[![x-cmd/install — tabby Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tabby.svg)](https://x-cmd.com/install/tabby)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **34,100** lines of code across **481** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 74,558 · **Forks**: 4,257 · **Open issues**: 6,355 · **Contributors**: 220
+- **Stars**: 74,595 · **Forks**: 4,256 · **Open issues**: 6,356 · **Contributors**: 220
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 1618 · **Open PRs**: 122 · **Closed issues**: 3644 · **Open issues**: 2711 · **Commits**: 6560
+- **Releases**: 209 · **Merged PRs**: 1618 · **Open PRs**: 122 · **Closed issues**: 3644 · **Open issues**: 2712 · **Commits**: 6560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 13 | 16 | 3 | 26 | 47 |
-| last60d | 2026-07-20 | 1 | 23 | 31 | 17 | 72 | 47 |
-| 90d | 2026-06-20 | 1 | 39 | 71 | 27 | 99 | 91 |
-| last180d | 2026-03-22 | 5 | 92 | 78 | 99 | 211 | 155 |
-| 360d | 2025-09-23 | 8 | 123 | 81 | 164 | 401 | 199 |
-| last720d | 2024-09-28 | 19 | 155 | 82 | 404 | 835 | 325 |
+| 30d | 2026-08-21 | 0 | 13 | 16 | 3 | 24 | 47 |
+| last60d | 2026-07-22 | 1 | 22 | 31 | 17 | 70 | 47 |
+| 90d | 2026-06-22 | 1 | 39 | 71 | 27 | 98 | 91 |
+| last180d | 2026-03-24 | 5 | 88 | 78 | 98 | 209 | 155 |
+| 360d | 2025-09-25 | 8 | 123 | 81 | 164 | 397 | 199 |
+| last720d | 2024-09-30 | 19 | 155 | 82 | 404 | 835 | 324 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for tabby lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:40:23Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:37:13Z._
