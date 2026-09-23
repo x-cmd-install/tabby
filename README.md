@@ -4,7 +4,7 @@
 
 A terminal for a more modern age
 
-[![x-cmd/install — tabby Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tabby.svg)](https://x-cmd.com/install/tabby)
+[![x-cmd/install — tabby Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tabby.svg)](https://x-cmd.com/install/tabby)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **34,100** lines of code across **481** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 74,628 · **Forks**: 4,258 · **Open issues**: 6,362 · **Contributors**: 220
+- **Stars**: 74,650 · **Forks**: 4,259 · **Open issues**: 6,363 · **Contributors**: 220
 
 ## Totals (cumulative)
 
-- **Releases**: 209 · **Merged PRs**: 1618 · **Open PRs**: 124 · **Closed issues**: 3647 · **Open issues**: 2715 · **Commits**: 6560
+- **Releases**: 209 · **Merged PRs**: 1618 · **Open PRs**: 125 · **Closed issues**: 3647 · **Open issues**: 2716 · **Commits**: 6560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 13 | 15 | 5 | 26 | 47 |
-| last60d | 2026-07-24 | 0 | 20 | 32 | 16 | 70 | 47 |
-| 90d | 2026-06-24 | 1 | 36 | 73 | 29 | 102 | 78 |
-| last180d | 2026-03-26 | 5 | 87 | 80 | 100 | 211 | 155 |
-| 360d | 2025-09-27 | 8 | 123 | 83 | 166 | 396 | 199 |
-| last720d | 2024-10-02 | 19 | 155 | 84 | 406 | 834 | 322 |
+| 30d | 2026-08-24 | 0 | 10 | 15 | 4 | 26 | 47 |
+| last60d | 2026-07-25 | 0 | 20 | 32 | 15 | 70 | 47 |
+| 90d | 2026-06-25 | 1 | 34 | 74 | 29 | 103 | 78 |
+| last180d | 2026-03-27 | 5 | 87 | 81 | 100 | 211 | 155 |
+| 360d | 2025-09-28 | 8 | 123 | 84 | 164 | 397 | 199 |
+| last720d | 2024-10-03 | 19 | 155 | 85 | 405 | 833 | 322 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for tabby lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:47:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:54:54Z._
