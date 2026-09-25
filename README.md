@@ -14,14 +14,14 @@ x install tabby
 
 ## Code insight
 
-Total: **34,105** lines of code across **481** files in the top 5 languages.
+Total: **34,464** lines of code across **484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 24,595 | 1,419 | 3,527 | 290 |
+| TypeScript | 24,902 | 1,437 | 3,563 | 293 |
 | Pug | 3,457 | 1 | 413 | 62 |
-| Sass | 1,942 | 17 | 406 | 44 |
-| JavaScript | 1,815 | 6 | 111 | 35 |
+| Sass | 1,979 | 17 | 412 | 44 |
+| JavaScript | 1,825 | 8 | 113 | 35 |
 | Json | 1,129 | 0 | 0 | 50 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **34,105** lines of code across **481** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.236` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-24
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 74,659 · **Forks**: 4,263 · **Open issues**: 6,366 · **Contributors**: 220
+- **Stars**: 74,678 · **Forks**: 4,265 · **Open issues**: 6,372 · **Contributors**: 223
 
 ## Totals (cumulative)
 
-- **Releases**: 210 · **Merged PRs**: 1618 · **Open PRs**: 127 · **Closed issues**: 3647 · **Open issues**: 2719 · **Commits**: 6561
+- **Releases**: 210 · **Merged PRs**: 1632 · **Open PRs**: 87 · **Closed issues**: 3651 · **Open issues**: 2721 · **Commits**: 6576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 1 | 10 | 18 | 4 | 29 | 48 |
-| last60d | 2026-07-26 | 1 | 20 | 34 | 15 | 71 | 48 |
-| 90d | 2026-06-26 | 2 | 33 | 74 | 29 | 106 | 79 |
-| last180d | 2026-03-28 | 6 | 87 | 82 | 100 | 214 | 156 |
-| 360d | 2025-09-29 | 9 | 123 | 85 | 162 | 396 | 200 |
-| last720d | 2024-10-04 | 20 | 155 | 87 | 404 | 834 | 323 |
+| 30d | 2026-08-26 | 1 | 17 | 35 | 4 | 33 | 61 |
+| last60d | 2026-07-27 | 1 | 28 | 48 | 16 | 73 | 61 |
+| 90d | 2026-06-27 | 2 | 44 | 75 | 29 | 111 | 92 |
+| last180d | 2026-03-29 | 6 | 101 | 79 | 101 | 217 | 169 |
+| 360d | 2025-09-30 | 9 | 137 | 82 | 165 | 396 | 213 |
+| last720d | 2024-10-05 | 20 | 169 | 84 | 408 | 835 | 338 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for tabby lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:04:37Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:16:53Z._
