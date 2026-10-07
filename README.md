@@ -14,14 +14,14 @@ x install tabby
 
 ## Code insight
 
-Total: **34,464** lines of code across **484** files in the top 5 languages.
+Total: **34,742** lines of code across **490** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 24,902 | 1,437 | 3,563 | 293 |
+| TypeScript | 25,116 | 1,487 | 3,593 | 297 |
 | Pug | 3,457 | 1 | 413 | 62 |
-| Sass | 1,979 | 17 | 412 | 44 |
-| JavaScript | 1,825 | 8 | 113 | 35 |
+| Sass | 1,988 | 19 | 413 | 44 |
+| JavaScript | 1,883 | 15 | 118 | 37 |
 | Json | 1,129 | 0 | 0 | 50 |
 
 ## Source
@@ -32,67 +32,67 @@ Total: **34,464** lines of code across **484** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.237` (2026-09-25)
-- **Last commit**: 2026-09-24
+- **Latest**: `v1.0.238` (2026-10-07)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 74,836 · **Forks**: 4,276 · **Open issues**: 6,384 · **Contributors**: 222
+- **Stars**: 74,846 · **Forks**: 4,277 · **Open issues**: 6,386 · **Contributors**: 226
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 1631 · **Open PRs**: 105 · **Closed issues**: 3659 · **Open issues**: 2725 · **Commits**: 6576
+- **Releases**: 212 · **Merged PRs**: 1640 · **Open PRs**: 98 · **Closed issues**: 3662 · **Open issues**: 2724 · **Commits**: 6586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 12 | 54 | 10 | 29 | 61 |
-| last60d | 2026-08-07 | 2 | 26 | 60 | 14 | 63 | 61 |
-| 90d | 2026-07-08 | 3 | 41 | 93 | 31 | 103 | 64 |
-| last180d | 2026-04-09 | 7 | 98 | 97 | 104 | 206 | 166 |
-| 360d | 2025-10-11 | 10 | 134 | 100 | 170 | 390 | 204 |
-| last720d | 2024-10-16 | 21 | 167 | 102 | 412 | 821 | 337 |
+| 30d | 2026-09-07 | 3 | 20 | 48 | 11 | 27 | 71 |
+| last60d | 2026-08-08 | 3 | 35 | 55 | 15 | 63 | 71 |
+| 90d | 2026-07-09 | 4 | 47 | 86 | 32 | 101 | 74 |
+| last180d | 2026-04-10 | 8 | 106 | 90 | 105 | 207 | 176 |
+| 360d | 2025-10-12 | 11 | 143 | 93 | 170 | 389 | 214 |
+| last720d | 2024-10-17 | 22 | 176 | 95 | 414 | 821 | 347 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [latest-arm64-linux-arm64.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-arm64-linux-arm64.yml) | 1.3 KiB | `native/linux/arm64` |
-| [latest-arm64-mac.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-arm64-mac.yml) | 657 B | `other` |
-| [latest-arm64.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-arm64.yml) | 357 B | `other` |
-| [latest-armv7l-linux-arm.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-armv7l-linux-arm.yml) | 1.3 KiB | `native/linux/arm` |
-| [latest-x64-linux.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-x64-linux.yml) | 1.3 KiB | `other` |
-| [latest-x64.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-x64.yml) | 353 B | `other` |
-| [latest-x86_64-mac.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.237/latest-x86_64-mac.yml) | 661 B | `other` |
-| [tabby-1.0.237-linux-arm64.AppImage](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-arm64.AppImage) | 161.4 MiB | `native/linux/arm64` |
-| [tabby-1.0.237-linux-arm64.deb](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-arm64.deb) | 119.7 MiB | `native/linux/arm64` |
-| [tabby-1.0.237-linux-arm64.pacman](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-arm64.pacman) | 106.8 MiB | `native/linux/arm64` |
-| [tabby-1.0.237-linux-arm64.rpm](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-arm64.rpm) | 103.3 MiB | `native/linux/arm64` |
-| [tabby-1.0.237-linux-arm64.tar.gz](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-arm64.tar.gz) | 152.4 MiB | `native/linux/arm64` |
-| [tabby-1.0.237-linux-armv7l.AppImage](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-armv7l.AppImage) | 157.9 MiB | `native/linux/arm` |
-| [tabby-1.0.237-linux-armv7l.deb](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-armv7l.deb) | 122.4 MiB | `native/linux/arm` |
-| [tabby-1.0.237-linux-armv7l.pacman](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-armv7l.pacman) | 111.1 MiB | `native/linux/arm` |
-| [tabby-1.0.237-linux-armv7l.rpm](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-armv7l.rpm) | 107.4 MiB | `native/linux/arm` |
-| [tabby-1.0.237-linux-armv7l.tar.gz](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-armv7l.tar.gz) | 150.8 MiB | `native/linux/arm` |
-| [tabby-1.0.237-linux-x64.AppImage](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-x64.AppImage) | 160.4 MiB | `other` |
-| [tabby-1.0.237-linux-x64.deb](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-x64.deb) | 124.3 MiB | `other` |
-| [tabby-1.0.237-linux-x64.pacman](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-x64.pacman) | 111.7 MiB | `other` |
-| [tabby-1.0.237-linux-x64.rpm](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-x64.rpm) | 108.1 MiB | `other` |
-| [tabby-1.0.237-linux-x64.tar.gz](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-linux-x64.tar.gz) | 151.7 MiB | `native/unknown` |
-| [tabby-1.0.237-macos-arm64.dmg](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-macos-arm64.dmg) | 155.1 MiB | `native/darwin/arm64` |
-| [tabby-1.0.237-macos-arm64.dmg.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-macos-arm64.dmg.blockmap) | 166.7 KiB | `native/darwin/arm64` |
-| [tabby-1.0.237-macos-arm64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-macos-arm64.zip) | 149.8 MiB | `native/darwin/arm64` |
-| [tabby-1.0.237-macos-x86_64.dmg](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-macos-x86_64.dmg) | 160.9 MiB | `native/darwin/x64` |
-| [tabby-1.0.237-macos-x86_64.dmg.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-macos-x86_64.dmg.blockmap) | 172.6 KiB | `native/darwin/x64` |
-| [tabby-1.0.237-macos-x86_64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-macos-x86_64.zip) | 155.5 MiB | `native/darwin/x64` |
-| [tabby-1.0.237-portable-arm64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-portable-arm64.zip) | 175.7 MiB | `other` |
-| [tabby-1.0.237-portable-x64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-portable-x64.zip) | 177.3 MiB | `other` |
-| [tabby-1.0.237-setup-arm64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-setup-arm64.exe) | 143.6 MiB | `other` |
-| [tabby-1.0.237-setup-arm64.exe.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-setup-arm64.exe.blockmap) | 154.6 KiB | `other` |
-| [tabby-1.0.237-setup-x64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-setup-x64.exe) | 161.9 MiB | `other` |
-| [tabby-1.0.237-setup-x64.exe.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.237/tabby-1.0.237-setup-x64.exe.blockmap) | 175.2 KiB | `other` |
+| [latest-arm64-linux-arm64.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-arm64-linux-arm64.yml) | 1.3 KiB | `native/linux/arm64` |
+| [latest-arm64-mac.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-arm64-mac.yml) | 657 B | `other` |
+| [latest-arm64.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-arm64.yml) | 357 B | `other` |
+| [latest-armv7l-linux-arm.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-armv7l-linux-arm.yml) | 1.3 KiB | `native/linux/arm` |
+| [latest-x64-linux.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-x64-linux.yml) | 1.3 KiB | `other` |
+| [latest-x64.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-x64.yml) | 353 B | `other` |
+| [latest-x86_64-mac.yml](https://github.com/Eugeny/tabby/releases/download/v1.0.238/latest-x86_64-mac.yml) | 661 B | `other` |
+| [tabby-1.0.238-linux-arm64.AppImage](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-arm64.AppImage) | 161.4 MiB | `native/linux/arm64` |
+| [tabby-1.0.238-linux-arm64.deb](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-arm64.deb) | 119.7 MiB | `native/linux/arm64` |
+| [tabby-1.0.238-linux-arm64.pacman](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-arm64.pacman) | 106.9 MiB | `native/linux/arm64` |
+| [tabby-1.0.238-linux-arm64.rpm](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-arm64.rpm) | 103.3 MiB | `native/linux/arm64` |
+| [tabby-1.0.238-linux-arm64.tar.gz](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-arm64.tar.gz) | 152.4 MiB | `native/linux/arm64` |
+| [tabby-1.0.238-linux-armv7l.AppImage](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-armv7l.AppImage) | 157.9 MiB | `native/linux/arm` |
+| [tabby-1.0.238-linux-armv7l.deb](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-armv7l.deb) | 122.5 MiB | `native/linux/arm` |
+| [tabby-1.0.238-linux-armv7l.pacman](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-armv7l.pacman) | 111.2 MiB | `native/linux/arm` |
+| [tabby-1.0.238-linux-armv7l.rpm](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-armv7l.rpm) | 107.4 MiB | `native/linux/arm` |
+| [tabby-1.0.238-linux-armv7l.tar.gz](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-armv7l.tar.gz) | 150.8 MiB | `native/linux/arm` |
+| [tabby-1.0.238-linux-x64.AppImage](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-x64.AppImage) | 160.4 MiB | `other` |
+| [tabby-1.0.238-linux-x64.deb](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-x64.deb) | 124.3 MiB | `other` |
+| [tabby-1.0.238-linux-x64.pacman](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-x64.pacman) | 111.7 MiB | `other` |
+| [tabby-1.0.238-linux-x64.rpm](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-x64.rpm) | 108.1 MiB | `other` |
+| [tabby-1.0.238-linux-x64.tar.gz](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-linux-x64.tar.gz) | 151.7 MiB | `native/unknown` |
+| [tabby-1.0.238-macos-arm64.dmg](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-macos-arm64.dmg) | 155.1 MiB | `native/darwin/arm64` |
+| [tabby-1.0.238-macos-arm64.dmg.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-macos-arm64.dmg.blockmap) | 166.9 KiB | `native/darwin/arm64` |
+| [tabby-1.0.238-macos-arm64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-macos-arm64.zip) | 149.8 MiB | `native/darwin/arm64` |
+| [tabby-1.0.238-macos-x86_64.dmg](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-macos-x86_64.dmg) | 160.9 MiB | `native/darwin/x64` |
+| [tabby-1.0.238-macos-x86_64.dmg.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-macos-x86_64.dmg.blockmap) | 173.4 KiB | `native/darwin/x64` |
+| [tabby-1.0.238-macos-x86_64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-macos-x86_64.zip) | 155.5 MiB | `native/darwin/x64` |
+| [tabby-1.0.238-portable-arm64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-portable-arm64.zip) | 175.7 MiB | `other` |
+| [tabby-1.0.238-portable-x64.zip](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-portable-x64.zip) | 177.3 MiB | `other` |
+| [tabby-1.0.238-setup-arm64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-setup-arm64.exe) | 143.6 MiB | `other` |
+| [tabby-1.0.238-setup-arm64.exe.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-setup-arm64.exe.blockmap) | 154.5 KiB | `other` |
+| [tabby-1.0.238-setup-x64.exe](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-setup-x64.exe) | 161.9 MiB | `other` |
+| [tabby-1.0.238-setup-x64.exe.blockmap](https://github.com/Eugeny/tabby/releases/download/v1.0.238/tabby-1.0.238-setup-x64.exe.blockmap) | 175.5 KiB | `other` |
 
 ## Improve this data
 
@@ -103,4 +103,4 @@ Install metadata for tabby lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:49:29Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:23:08Z._
