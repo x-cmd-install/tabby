@@ -38,22 +38,22 @@ Total: **34,742** lines of code across **490** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 75,431 · **Forks**: 4,348 · **Open issues**: 6,414 · **Contributors**: 224
+- **Stars**: 75,446 · **Forks**: 4,349 · **Open issues**: 6,415 · **Contributors**: 224
 
 ## Totals (cumulative)
 
-- **Releases**: 212 · **Merged PRs**: 1634 · **Open PRs**: 146 · **Closed issues**: 3662 · **Open issues**: 2752 · **Commits**: 6586
+- **Releases**: 212 · **Merged PRs**: 1634 · **Open PRs**: 147 · **Closed issues**: 3662 · **Open issues**: 2753 · **Commits**: 6586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 56 | 2 | 22 | 0 |
-| last60d | 2026-09-16 | 3 | 13 | 99 | 12 | 56 | 24 |
-| 90d | 2026-08-17 | 3 | 30 | 104 | 15 | 85 | 70 |
-| last180d | 2026-05-19 | 4 | 83 | 138 | 50 | 187 | 124 |
-| 360d | 2025-11-20 | 9 | 136 | 141 | 158 | 371 | 208 |
-| last720d | 2024-11-25 | 22 | 172 | 143 | 400 | 821 | 338 |
+| 30d | 2026-10-17 | 0 | 0 | 56 | 2 | 23 | 0 |
+| last60d | 2026-09-17 | 3 | 13 | 100 | 12 | 57 | 24 |
+| 90d | 2026-08-18 | 3 | 30 | 105 | 15 | 85 | 70 |
+| last180d | 2026-05-20 | 4 | 82 | 139 | 50 | 187 | 124 |
+| 360d | 2025-11-21 | 9 | 136 | 142 | 158 | 372 | 208 |
+| last720d | 2024-11-26 | 22 | 172 | 144 | 400 | 822 | 338 |
 
 ## Release assets
 
@@ -103,4 +103,4 @@ Install metadata for tabby lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:24:46Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:53:30Z._
